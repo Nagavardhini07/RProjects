@@ -14,6 +14,7 @@ str(wagepan)
 summary(wagepan)
 head(wagepan)
 
+
 #generate variable
 wagepan$expersq<-wagepan$exper^2
 
